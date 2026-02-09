@@ -143,3 +143,9 @@ The Employee Management System is a simple, secure, and effective solution for m
 4. Update database credentials in the connection file.
 5. Clean and Build the project.
 6. Run the project or execute the `.jar` file from the `dist` folder:
+
+
+## 📄 License
+
+This project is licensed under the MIT License.
+

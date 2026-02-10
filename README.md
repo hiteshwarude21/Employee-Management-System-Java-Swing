@@ -39,47 +39,32 @@ A desktop-based Employee Management System developed using **Java Swing** in **N
 - **IDE:** NetBeans  
 - **Database Connectivity:** JDBC  
 
+## 🔄 System Flow
+
+1. **Home Page** → “Click Here to Continue”  
+2. **Login Page** → User enters Username & Password  
+3. **Dashboard (Main Menu):**
+   - Add Employee  
+   - View Employee  
+   - Update Employee  
+   - Remove Employee  
+   - Print Employee List  
+   - Logout  
 
 
-## 🧭 System Flow (Graphical)
 
-```mermaid
-flowchart TD
-    A([Start Application]) --> B[Home Screen<br/>Click "Continue"]
-    B --> C[Login Screen]
-    C -->|Valid Credentials| D[Dashboard]
-    C -->|Invalid Credentials| C
+## 🧑‍💼 Modules Description
 
-    D --> E[➕ Add Employee]
-    D --> F[📋 View Employees]
-    D --> G[✏️ Update Employee]
-    D --> H[❌ Remove Employee]
-    D --> I[🚪 Logout]
-
-    E --> E1[Enter Employee Details]
-    E1 --> E2[Validate Data]
-    E2 -->|Valid| E3[Save to MySQL Database]
-    E2 -->|Invalid| E1
-    E3 --> D
-
-    F --> F1[Fetch Data from MySQL]
-    F1 --> F2[Display in Table]
-    F2 --> F3[🖨️ Print Option]
-    F3 --> D
-
-    G --> G1[Search by Employee ID]
-    G1 --> G2[Modify Details]
-    G2 --> G3[Update in MySQL Database]
-    G3 --> D
-
-    H --> H1[Select Employee]
-    H1 --> H2[Show Confirmation Alert]
-    H2 -->|Yes| H3[Delete from MySQL Database]
-    H2 -->|No| D
-    H3 --> D
-
-    I --> Z([End Session])
-
+### ➕ Add Employee
+- Enter employee details such as:
+  - Employee ID
+  - Name
+  - Department
+  - Designation
+  - Salary
+  - Contact
+  - Address
+- Data is validated and then stored in the MySQL database.
 
 ### 📋 View Employee
 - Displays all employee records in a table format.

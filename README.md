@@ -1,8 +1,3 @@
-<!-- ===================== TOP MOTION BANNER ===================== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZtYzB2Z2R3Z3ZxZ3Z2a2R0dDg5bGx0bHk5c3N0b2ZzZzJ6ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
-</p>
-
 <!-- ===================== TYPING ANIMATION TITLE ===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Employee+Management+System;Java+Swing+%7C+MySQL+%7C+NetBeans;Desktop+Application+Project" />

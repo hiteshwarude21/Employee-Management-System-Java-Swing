@@ -137,16 +137,6 @@ The Employee Management System is a simple, secure, and effective solution for m
 
 
 
-## 📷 Screenshots
-
-(Add screenshots of your application here)
-- Login Screen  
-- Dashboard  
-- Add Employee Form  
-- View Employee Table  
-
-
-
 ## ▶️ How to Run the Project
 
 1. Clone or download this repository.

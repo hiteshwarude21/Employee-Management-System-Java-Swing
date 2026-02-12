@@ -1,5 +1,5 @@
 package employee.management.system;
-
+// Hitesh warude
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -48,8 +48,7 @@ public class Home extends JFrame implements ActionListener{
         setLocation(100, 40);
         setVisible(true);
     }
-    
-    public void actionPerformed(ActionEvent ae) {
+public void actionPerformed(ActionEvent ae) {
         if (ae.getSource() == add) {
             setVisible(false);
             new AddEmployee();
@@ -64,8 +63,8 @@ public class Home extends JFrame implements ActionListener{
             new RemoveEmployee();
         }
     }
-
-    public static void main(String[] args) {
+public static void main(String[] args) {
         new Home();
     }
 }
+

@@ -173,11 +173,6 @@ The Employee Management System is a simple, secure, and effective solution for m
   💻 DSA • 🚀 Problem Solving • 📈 Consistency • 🧠 Learning Every Day
 </p>
 
-<p align="center">
-  Made with ❤️ by <b>Hitesh Warude</b>
-</p>
-
-
 
 ## 📄 License
 

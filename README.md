@@ -183,3 +183,8 @@ The Employee Management System is a simple, secure, and effective solution for m
 
 This project is licensed under the MIT License.
 
+
+<p align="center">
+  Made with ❤️ by <b>Hitesh Warude</b>
+</p>
+

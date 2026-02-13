@@ -147,6 +147,38 @@ The Employee Management System is a simple, secure, and effective solution for m
 6. Run the project or execute the `.jar` file from the `dist` folder:
 
 
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.codechef.com/users/hitesh_warude" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-hitesh__warude-orange?logo=codechef&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/hiteshwarude21" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hitesh-warude/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/hitesh_warude_21" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  💻 DSA • 🚀 Problem Solving • 📈 Consistency • 🧠 Learning Every Day
+</p>
+
+<p align="center">
+  Made with ❤️ by <b>Hitesh Warude</b>
+</p>
+
+
+
 ## 📄 License
 
 This project is licensed under the MIT License.

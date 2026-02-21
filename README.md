@@ -175,9 +175,8 @@ The Employee Management System is a simple, secure, and effective solution for m
 
 
 ## 📄 License
-<p align="center">
 This project is licensed under the MIT License.
-</p>
+
 
 
 <p align="center">
